@@ -28,5 +28,16 @@ Deploy a secure server using Amazon EC2 and restrict SSH access.
 - How to securely deploy a cloud server
 - Importance of limiting SSH access
 
+## Screenshots
+
+![EC2 Instance]
+
   ![image](https://github.com/user-attachments/assets/14138c79-4752-423b-a785-3e27b5bcf811)
 
+
+## Real-World Relevance
+
+This lab demonstrates how to prevent common cloud security issues such as:
+- Unauthorized server access
+- Credential exposure
+- Public data leaks
